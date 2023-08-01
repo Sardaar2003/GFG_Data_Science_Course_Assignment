@@ -1,0 +1,2 @@
+1,Ashish Mehra,92438483923,ashsishmehra384@gmail.com,Fitness Tracker,8,45,3240.0,Tue Aug  1 11:48:09 2023
+2,Ravi Kumar,93483120322,ravikumar823@gmail.com,Smartphone X,8,23,18609.3,Tue Aug  1 11:48:35 2023
